@@ -1,3 +1,5 @@
+Output
+===
 ```Java
 $ java Percolation data / input10 . txt
 56 open sites
