@@ -41,3 +41,6 @@ Al M
 99357 Al M a a r y a h , Egypt
 <ctrl -d >
 ```
+```Python
+python run_tests.py -v [<problems>] //python check out
+```
