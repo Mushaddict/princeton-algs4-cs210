@@ -24,5 +24,5 @@ outcast ( data / outcast8 . txt ) = bed
 outcast ( data / outcast11 . txt ) = potato
 ```
 ```Python
-python run_tests.py -v [<problems>] //python check out
+python3 run_tests.py -v [<problems>] //python check out
 ```
