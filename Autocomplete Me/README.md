@@ -42,5 +42,5 @@ Al M
 <ctrl -d >
 ```
 ```Python
-python run_tests.py -v [<problems>] //python check out
+python3 run_tests.py -v [<problems>] //python check out
 ```
