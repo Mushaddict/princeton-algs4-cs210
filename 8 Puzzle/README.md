@@ -68,3 +68,6 @@ Minimum number of moves = 5
 4 5 6
 7 8 0
 ```
+```Python
+python run_tests.py -v [<problems>] //python check out
+```
