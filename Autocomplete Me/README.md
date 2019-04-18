@@ -1,3 +1,5 @@
+Output
+===
 ```Java
 $ java Term data/cities.txt 5
 Top 5 by lexicographic order :
